@@ -1,3 +1,4 @@
 name: Roshan Basnet,Tech enthusiast
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+highlighter: rouge
